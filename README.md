@@ -18,7 +18,7 @@ by remaking the game with characters instead of Pokemon figures.
 
 **2. Game control**
 
-Unlike the original one, this project is made without allowing the player to use mouse-click. Instead, players are allowed to use mouse-click
+Unlike the original one, this project is made without allowing the player to use mouse-click. Instead, players are allowed to use these keys:
 - **W**, **A**, **S**, **D** and/or &uarr;, &larr;, &darr;, &rarr; on your keyboard to move *up*, *left*, *down*, *right* respectively.
 - **ENTER** to lock your selected cell
 - And other keys you will find out in the game.
